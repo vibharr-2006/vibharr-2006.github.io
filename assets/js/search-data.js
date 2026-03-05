@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-amplifier-0",
+            },{id: "post-amplifier-1-intro-to-ampilfiers",
+        
+          title: "amplifier - 1 Intro to ampilfiers",
+        
+        description: "Purpose of this series",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/amp-1/";
+          
+        },
+      },{id: "post-amplifier-0",
         
           title: "amplifier - 0",
         
