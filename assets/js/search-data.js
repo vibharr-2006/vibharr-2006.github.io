@@ -74,7 +74,7 @@ ninja.data = [{
               },
             },{id: "post-amplifier-1-intro-to-ampilfiers",
         
-          title: "amplifier - 1 Intro to ampilfiers",
+          title: "Amplifier - 1 Intro to ampilfiers",
         
         description: "Purpose of this series",
         section: "Posts",
