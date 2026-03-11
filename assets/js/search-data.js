@@ -85,7 +85,7 @@ ninja.data = [{
         },
       },{id: "post-amplifier-0",
         
-          title: "amplifier - 0",
+          title: "Amplifier - 0",
         
         description: "Purpose of this series",
         section: "Posts",
