@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Vibha Rao. I am an ECE student at NITK Surathkal. I am primarily interested in Analog and Power Electronics. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Vibha Rao. I am an ECE student at NITK Surathkal. I am primarily interested in Analog and Power Electronics. I like to work with electronics components and tools to build projects mainly related to audio and ECGs signals. I guess you could say I'm also interested in signal processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I had an analog course in my third semester where we learnt about BJTs, MOSFETs, opamps, etc.. But didn't really understand their working and their applications. Which is also the reason why I didn't score well in the course. Solving problems related to analog was not easy. I had learnt a list of formulas but I didn't know what they were used to find and when to use them. Since analog didn't come easy to me like digital electronics, I never wanted to study it until I joined robotics team in college called CSD Robocon NITK.
+
+This was the place where I was introduced to PCB design. 
+
+I like to work on projects as they help in understanding concepts and it also make learning fun. 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
