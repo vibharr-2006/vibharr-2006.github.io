@@ -76,7 +76,7 @@ ninja.data = [{
         
           title: "Generating PWM",
         
-        description: "Purpose of this series",
+        description: "The first module of building a Class-D Amplifier",
         section: "Posts",
         handler: () => {
           
