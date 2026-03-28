@@ -2,7 +2,7 @@
 layout: post
 title: Generating PWM 
 date: 2026-03-05 
-description: Purpose of this series
+description: The first module of building a Class-D Amplifier
 tags: formatting links
 categories: sample-posts
 ---
