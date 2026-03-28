@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-amplifier-1-intro-to-ampilfiers",
+            },{id: "post-generating-pwm",
+        
+          title: "Generating PWM",
+        
+        description: "Purpose of this series",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/pwm-generator/";
+          
+        },
+      },{id: "post-amplifier-1-intro-to-ampilfiers",
         
           title: "Amplifier - 1 Intro to ampilfiers",
         
