@@ -29,7 +29,7 @@ latest_posts:
 
 My name is Vibha Rao. I am an ECE student at NITK Surathkal. I am primarily interested in Analog and Power Electronics. 
 
-I had an analog course in my third semester where we learnt about BJTs, MOSFETs, opamps, etc.. But I never fully understood how these devices actually worked or where they were used in practice. Which is also the reason why I didn't score well in the course. Solving problems related to analog was not easy. I had learnt a list of formulas but I didn't know what they were used to find and when to use them. Since analog didn't come easy to me like digital electronics, I never wanted to study it until I joined robotics team in college called CSD Robocon NITK.
+I had an analog course in my third semester where we learnt about BJTs, MOSFETs, opamps, etc.. But I never fully understood how these devices actually worked or where they were used in practice. Which is also the reason why I didn't score well in the course. Solving problems related to analog was not easy. I had learnt a list of formulas but I didn't know what they were used to find and when to use them. Since analog didn't come easy to me like digital electronics, I never wanted to study it until I joined a robotics team in college called CSD Robocon NITK.
 
 This was the place where I was introduced to PCB design. I like to work with electronic components and tools to build projects mainly related to audio and ECGs signals. I guess you could say I'm also interested in signal processing. I find it quite facinating to look at waveforms from the oscilloscope. 
 

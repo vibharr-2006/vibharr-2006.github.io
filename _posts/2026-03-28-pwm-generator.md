@@ -34,5 +34,5 @@ The components used:
 <li>33 nF capacitor</li>
 </ol>
 
-<p>To generate triangular wave, we need to input a square wave through an integrator. A square wave is built using a schmitt trigger + RC circuit.</p>
+<p>To generate triangular wave, we need to input a square wave through an integrator. A square wave is built using a astable multivibrator + RC circuit.</p>
 
