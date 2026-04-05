@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-generating-pwm",
+            },{id: "post-operational-amplifier-101",
+        
+          title: "Operational Amplifier 101",
+        
+        description: "All you need to know about opamps",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/opamp-0/";
+          
+        },
+      },{id: "post-generating-pwm",
         
           title: "Generating PWM",
         
